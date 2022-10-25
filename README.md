@@ -1,6 +1,6 @@
 # find-stock-by-image
 
-<h3 align="center"> 「 Tech Stack 」  </h3>
+<h3 align="center"> 「 AI Stack 」  </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
