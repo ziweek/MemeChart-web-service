@@ -19,8 +19,8 @@
   <br/>
   
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>![image](https://user-images.githubusercontent.com/99459331/197816360-bc85eef0-f00f-429b-9737-351bd36a7c5b.png)
-
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
+  <br/>
 </p>
 
 ## Concept
